@@ -12,7 +12,7 @@ Estou sempre disposto a aprender novas tecnologias, mas estudei e possuo um conh
 # Front-end.
 - HTML5.
 - CSS3.
-- JavaScript Para Front-end.
+- JavaScript.
 
 ## Frameworks Front-end
 - Bootstrap.
