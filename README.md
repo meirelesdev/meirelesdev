@@ -1,9 +1,12 @@
 ## Olá Visitante 👋,
 ### Atualmente estou em busca de um oportunidade para utilizar todo o conhecimento que tenho e que esta em constante evolução, no mercado de trabalho.
 ### Cargo atual Freelancer.
+[Job atual: meu portfolio](https://meirelesdev.github.io/)[Flex Grid](http://exemplo.com/)
+  
 
 ## 🌱 Estou estudando atualmente wordpress.
 ## - Criação de temas e Plugins.
+## - Docker.
 
 Estou sempre disposto a aprender novas tecnologias, mas estudei e possuo um conhecimento suficiente para desenvolver aplicações com:
 # Front-end.
