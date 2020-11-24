@@ -1,12 +1,9 @@
 ## Olá Visitante 👋,
-### Atualmente estou em busca de um oportunidade para utilizar todo o conhecimento que tenho e que esta em constante evolução, no mercado de trabalho.
-### Cargo atual Freelancer.
-[Job atual: Meu Portfolio](https://meirelesdev.github.io/)
-  
 
-## 🌱 Estou estudando atualmente wordpress.
-## - Criação de temas e Plugins.
-## - Docker.
+Atualmente estou em busca de um oportunidade para utilizar todo o conhecimento que tenho e que esta em constante evolução, no mercado de trabalho.
+
+## Cargo atual:
+Web Developer na Empresa Concept Prime.
 
 Estou sempre disposto a aprender novas tecnologias, mas estudei e possuo um conhecimento suficiente para desenvolver aplicações com:
 # Front-end.
