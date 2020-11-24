@@ -1,6 +1,6 @@
 ## Olá Visitante 👋,
 
-Atualmente estou em busca de um oportunidade para utilizar todo o conhecimento que tenho e que esta em constante evolução, no mercado de trabalho.
+Sou um eterno estudante de linguagens de progamação, apaixonado por desafios.
 
 ## Cargo atual:
 Web Developer na Empresa Concept Prime.
