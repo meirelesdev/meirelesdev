@@ -3,31 +3,35 @@
 Sou um eterno estudante de linguagens de progamação, apaixonado por desafios.
 
 ## Cargo atual:
-Web Developer na Empresa Concept Prime.
+Desenvolvedor de software | Inovadora Sistemas.
 
-Estou sempre disposto a aprender novas tecnologias, mas estudei e possuo um conhecimento suficiente para desenvolver aplicações com:
+Estou sempre disposto a aprender novas tecnologias, possuo um conhecimento em:
+
 # Front-end.
 - HTML5.
 - CSS3.
 - JavaScript.
-
-## Frameworks Front-end
+- jQuery
+- ReactJS
 - Bootstrap.
 - ReactJS.
 - NextJS.
 
 # Back-end.
 - PHP.
-- MySQL.
+- PHPUnit.
 - JavaScript.
-- Java (Nivel bem Basico).
-
-## Frameworks Back-end.
 - AdonisJS.
 - Laravel (aprendendo ainda, mas muito parecido com AdonisJS)
+- ZendFramework
+- Doctrine ORM.
 
 ## Banco de Dados.
 - MySQL.
+- PostgreSQl.
+
+Conhecimento em desenvolvimento com docker.
+- Docker.
 
 ### Contato:
 Link do Linkedin: https://www.linkedin.com/in/developer-danielmn/
