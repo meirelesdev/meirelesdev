@@ -1,5 +1,5 @@
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=meirelesdev&layout=compact&langs_count=5&theme=dracula)
 ## Olá Visitante 👋,
-
 Sou um eterno estudante de linguagens de progamação, apaixonado por desafios.
 
 ## Cargo atual:
@@ -8,44 +8,29 @@ Desenvolvedor de software | Inovadora Sistemas.
 Estou sempre disposto a aprender novas tecnologias, possuo um conhecimento em:
 
 # Front-end.
-- HTML5.
-- CSS3.
-- JavaScript.
-- jQuery
-- ReactJS
-- Bootstrap.
-- ReactJS.
-- NextJS.
-
+<code style="padding:5px"><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
+<code style="padding:5px"><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
+<code style="padding:5px"><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code style="padding:5px"><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
+<code style="padding:5px"><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> 
+<code style="padding:5px"><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
+<code style="padding:5px"><img height="60" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs"></code> 
 # Back-end.
-- PHP.
+<code style="padding:5px"><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code style="padding:5px"><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code style="padding:5px"><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 - PHPUnit.
-- JavaScript.
 - AdonisJS.
-- Laravel (aprendendo ainda, mas muito parecido com AdonisJS)
+- Laravel
 - ZendFramework
 - Doctrine ORM.
-
 ## Banco de Dados.
-- MySQL.
-- PostgreSQl.
+<code style="padding:5px"><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code style="padding:5px"><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
 Conhecimento em desenvolvimento com docker.
-- Docker.
+
+<code style="padding:5px"><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 ### Contato:
-Link do Linkedin: https://www.linkedin.com/in/developer-danielmn/
-<!--
-**meirelesdev/meirelesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Link do Linkedin:](https://www.linkedin.com/in/developer-danielmn/)
