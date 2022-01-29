@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meirelesdev&layout=compact&langs_count=6&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=meirelesdev&layout=compact&langs_count=15&theme=dracula)
 ## Olá Visitante 👋,
 Sou um eterno estudante de linguagens de progamação, apaixonado por desafios.
 
