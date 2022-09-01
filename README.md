@@ -3,7 +3,7 @@
 Sou um eterno estudante de linguagens de progamação, apaixonado por desafios.
 
 ## Cargo atual:
-Desenvolvedor de software | Inovadora Sistemas.
+Desenvolvedor de software | Bry Tecnologia.
 
 Estou sempre disposto a aprender novas tecnologias, possuo um conhecimento em:
 
